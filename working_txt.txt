@@ -1,2 +1,3 @@
 working as a team in git
 hey b2 i made a chage here
+hey i did not merge so lets see
