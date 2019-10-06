@@ -1,2 +1,3 @@
 working as a team in git
 hey b2 i made a chage here
+hey b1 i made a change here again
